@@ -1,0 +1,3 @@
+C:/Users/Usuario/Documents/Fatec/ling_prog/projeto-dupla/cmake-build-debug/CMakeFiles/projeto_dupla.dir
+C:/Users/Usuario/Documents/Fatec/ling_prog/projeto-dupla/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Usuario/Documents/Fatec/ling_prog/projeto-dupla/cmake-build-debug/CMakeFiles/rebuild_cache.dir

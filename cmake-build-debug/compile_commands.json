@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Usuario/Documents/Fatec/ling_prog/projeto-dupla/cmake-build-debug",
+  "command": "\"C:\\Program Files\\JetBrains\\CLion 2026.3.0.2\\bin\\mingw\\bin\\gcc.exe\" -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\projeto_dupla.dir\\main.c.obj -c C:\\Users\\Usuario\\Documents\\Fatec\\ling_prog\\projeto-dupla\\main.c",
+  "file": "C:/Users/Usuario/Documents/Fatec/ling_prog/projeto-dupla/main.c",
+  "output": "C:/Users/Usuario/Documents/Fatec/ling_prog/projeto-dupla/cmake-build-debug/CMakeFiles/projeto_dupla.dir/main.c.obj"
+},
+{
+  "directory": "C:/Users/Usuario/Documents/Fatec/ling_prog/projeto-dupla/cmake-build-debug",
+  "command": "\"C:\\Program Files\\JetBrains\\CLion 2026.3.0.2\\bin\\mingw\\bin\\gcc.exe\" -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\projeto_dupla.dir\\jogos.c.obj -c C:\\Users\\Usuario\\Documents\\Fatec\\ling_prog\\projeto-dupla\\jogos.c",
+  "file": "C:/Users/Usuario/Documents/Fatec/ling_prog/projeto-dupla/jogos.c",
+  "output": "C:/Users/Usuario/Documents/Fatec/ling_prog/projeto-dupla/cmake-build-debug/CMakeFiles/projeto_dupla.dir/jogos.c.obj"
+}
+]
