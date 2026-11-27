@@ -1,3 +1,0 @@
-C:/Users/aluno/Desktop/projeto-dupla-main/projeto-dupla-main/cmake-build-debug/CMakeFiles/projeto_dupla.dir
-C:/Users/aluno/Desktop/projeto-dupla-main/projeto-dupla-main/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/aluno/Desktop/projeto-dupla-main/projeto-dupla-main/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-0;Devil May Cry;Capcom;80.000000;130.000000
-1;Dragons Dogma;Capcom;60.000000;250.000000
-2;GTA 6;Rockstar;700.000000;0.000000
