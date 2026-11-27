@@ -3,7 +3,7 @@
 Victor Hugo Oliveira Moraes
 RA: 1630482611022
 José Zavarize
-RA: 
+RA: 1630482611003
 
 ## Descrição
 A dupla tomou uma medida individualista do projeto, onde cada um fazia sua versão de maneira autonoma e ao final comparamos os resultados finais para assim analisarmos as diferentes soluções para o mesmo problema
