@@ -5,4 +5,5 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(projeto_dupla main.c
         jogos.c
-        jogos.h)
+        jogos.h
+        main.c)

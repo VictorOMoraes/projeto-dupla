@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include "jogos.h"
-#define ARQUIVO "C:\\Users\\Usuario\\Documents\\Fatec\\ling_prog\\projeto-dupla\\dados.txt"
+#define ARQUIVO "dados.txt"
 
 p_jogos vetor_jogos[MAX];
 

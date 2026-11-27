@@ -11,7 +11,7 @@ void cadastrar_jogo(int i) {
         vetor_jogos[i] = malloc(sizeof(Jogos));
         vetor_jogos[i]->id = i;
         fflush(stdin);
-        printf("Digite título: \n");
+        printf("Digite titulo: \n");
         gets(vetor_jogos[i]->titulo);
         fflush(stdin);
         printf("Digite nome da desenvolvedora: \n");
