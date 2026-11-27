@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 4.4)
+cmake_minimum_required(VERSION 4.1)
 project(projeto_dupla C)
 
 set(CMAKE_C_STANDARD 11)
