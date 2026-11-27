@@ -66,5 +66,5 @@ int maior_horas_jogadas() {
 void relatorio() {
     int jogo_horas = maior_horas_jogadas();
     printf("Jogos com mais horas jogadas: %s\n", vetor_jogos[jogo_horas]->titulo);
-    printf("Com %f horas jogadas\n\n", vetor_jogos[jogo_horas]->horas_jogadas);
+    printf("Com %.2f horas jogadas\n\n", vetor_jogos[jogo_horas]->horas_jogadas);
 }
