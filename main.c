@@ -57,7 +57,7 @@ int main(void) {
         printf("2. Imprimir unico jogo\n");
         printf("3. Imprimir todos os jogos\n");
         printf("4. Relatorio: jogo com mais horas jogadas\n");
-        printf("9. Sair\n");
+        printf("9. Salvar e Sair\n");
         scanf("%d", &opcao);
         switch (opcao) {
             case 1:
